@@ -1,0 +1,29 @@
+.t{
+    color: sienna;
+}
+.btn{
+    text-align: right;
+}
+.c{
+    color: red;
+    
+    justify-content: center;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    height:50px;
+    width: 1200px;
+    border:2px solid black;
+    display:flex;
+    margin: auto;
+}
+img{
+    padding-top: 2%;
+    
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxIvWcQa5CZ8gh0ufzX0gIGrKKBgoxUQOMCoMMFxJsL03-CRky_4fHbKMCR3uELc3vAlM&usqp=CAU);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}

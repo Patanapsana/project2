@@ -1,0 +1,57 @@
+.ha{
+    color: darkgoldenrod;
+}
+body{
+    background-image: url(data:image/jpeg;base64,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);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.hh{
+    width: 25%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 42%;
+    left: 50%;
+    overflow: auto;
+    border: 2px solid  black;
+    border-radius: 8px;
+    box-shadow: 10px 25px 30px rgba(30,30,200,0.3);
+}
+.im{
+    width: 100%;
+    display: flex;
+    animation: slide 5s infinite;
+
+}
+@keyframes slide{
+    0%{
+        transform: translateX(0);
+    }
+    25%{
+        transform: translateX(0);
+    }
+    30%{
+        transform: translateX(-100%);
+    }
+    50%{
+        transform: translateX(-100%);
+    }
+    55%{
+        transform: translateX(-200%);
+    }
+    75%{
+        transform: translateX(-200%);
+    }
+    80%{
+        transform: translateX(-300%);
+    }
+    100%{
+        transform: translateX(-300%);
+    }
+}
+.btn{
+    text-align: right;
+}
